@@ -22,7 +22,7 @@ AI Developer roles (fresher/intern).
 - 🥈 1st Runner-Up — Vibe Coding Hackathon, BMIET Sonipat
 - ☁️ AWS Certified AI Practitioner (AIF-C01)
 - ☁️ AWS Certified Cloud Practitioner (CLF-C02)
-- 💻 350+ LeetCode Problems Solved
+- 💻 400+ LeetCode Problems Solved
 
 ## 📌 Featured Projects
 | Project | Description | Tech |
