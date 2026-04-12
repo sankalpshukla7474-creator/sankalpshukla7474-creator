@@ -1,6 +1,6 @@
 # Hi, I'm Sankalp Shukla 👋
 
-🎓 B.Tech CSE @ KIET Group of Institutions (AKTU) | 80% Aggregate  
+🎓 B.Tech CSIT @ KIET Group of Institutions (AKTU) | 80% Aggregate  
 🤖 ML Engineer | AWS Certified AI & Cloud Practitioner  
 📍 Ghaziabad, Delhi NCR
 
